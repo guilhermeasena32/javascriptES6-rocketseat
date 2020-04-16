@@ -1,6 +1,6 @@
 ### Exercícios Módulo 01 - Conceitos
 
-## [1º exercício](https://github.com/guilhermeasena32/javascriptES6-rocketseat/blob/master/modulo%201/exercicio1.js)
+## [1º exercício](https://github.com/guilhermeasena32/javascriptES6-rocketseat/blob/master/modulo%201/exercicio-1.js)
 
 Para testar seus conhecimentos com classes, crie uma classe com nome "Admin", essa classe deve
 extender uma segunda classe chamada "Usuario".
