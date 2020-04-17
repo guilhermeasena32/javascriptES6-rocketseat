@@ -150,12 +150,12 @@ return `${nome} tem ${idade} anos.`;
 
 ## [5º exercício](https://github.com/guilhermeasena32/javascriptES6-rocketseat/blob/master/modulo%201/exercicio-5.js)
 
-Utilizando o operador de ```rest/spread (...)``` realize as seguintes operações:
+Utilizando o operador de `rest/spread (...)` realize as seguintes operações:
 
 #### 5.1 Rest
 
-A partir do array: ```const arr = [1, 2, 3, 4, 5, 6]```, defina uma variável ```x``` que recebe a primeira
-posição do vetor e outra variável ```y``` que recebe todo restante dos dados.
+A partir do array: `const arr = [1, 2, 3, 4, 5, 6]`, defina uma variável `x` que recebe a primeira
+posição do vetor e outra variável `y` que recebe todo restante dos dados.
 
 ```javascript
 console.log(x); // 1
@@ -188,3 +188,27 @@ const usuario = {
 
 Crie uma variável `usuario2` que contenha todos os dados do usuário porém com nome `Gabriel`.
 Crie uma variável `usuario3` que contenha todos os dados do usuário porém com cidade `Lontras`.
+
+## [6º exercício](https://github.com/guilhermeasena32/javascriptES6-rocketseat/blob/master/modulo%201/exercicio-6.js)
+
+Converta o seguinte trecho de código utilizando ```Template Literals```
+
+```javascript
+const usuario = "Diego";
+const idade = 23;
+console.log("O usuário " + usuario + " possui " + idade + " anos");
+```
+
+## [7º exercício](https://github.com/guilhermeasena32/javascriptES6-rocketseat/blob/master/modulo%201/exercicio-7.js)
+
+Utilize a sintaxe curta de objetos ```(Object Short Syntax)``` no seguinte objeto:
+
+```javascript
+const nome = "Diego";
+const idade = 23;
+const usuario = {
+  nome: nome,
+  idade: idade,
+  cidade: "Rio do Sul",
+};
+```
