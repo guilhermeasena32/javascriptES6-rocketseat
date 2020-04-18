@@ -1,6 +1,6 @@
 ### Exercício Módulo 02 - Webpack Server
 
-## [exercício](https://github.com/guilhermeasena32/javascriptES6-rocketseat/blob/master/modulo%201/exercicio.js)
+## [Exercício](https://github.com/guilhermeasena32/javascriptES6-rocketseat/blob/master/modulo%202/exercicio.js)
 
 Crie um arquivo chamado `functions.js` com o seguinte conteúdo:
 
